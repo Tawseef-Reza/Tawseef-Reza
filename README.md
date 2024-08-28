@@ -1,5 +1,9 @@
-- Hello! My name is Tawseef Reza, a 16 year old currently enrolled in Stuyvesant Highschool 📚 and interested in coding 💻. 
-- I'm currently learning javascript on my own through several sources.
+- Hello! My name is Tawseef Reza, a part of the Stony Brook Class of 2028
+Languages:
+- Python
+- Javascript (React and MERN Stack)
+- C# (along with the Unity Game Engine)
+- Java 
 - Email: tawseefrezahome@gmail.com 📧
 
 

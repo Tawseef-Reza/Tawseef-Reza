@@ -1,10 +1,10 @@
-- Hello! My name is Tawseef Reza, a part of the Stony Brook Class of 2028
-Languages:
-- Python
-- Javascript (React and MERN Stack)
-- C# (along with the Unity Game Engine)
-- Java 
-- Email: tawseefrezahome@gmail.com 📧
+- Hello! My name is Tawseef Reza, a part of the Stony Brook Class of 2028.
+- Languages I have learnt and used during my coding journey:
+  - Python
+  - Javascript (React and MERN Stack)
+  - C# (along with the Unity Game Engine)
+  - Java 
+  - Email: tawseefrezahome@gmail.com 📧
 
 
 <!---
